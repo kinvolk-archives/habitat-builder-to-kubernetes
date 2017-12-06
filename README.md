@@ -8,7 +8,7 @@ An experimental demo of Habitat Builder integrated with Kubernetes.
 
 ### Setup a local Habitat Builder instance
 
-Use the following branch: https://github.com/kinvolk/habitat/tree/schu/robertgzr-kubernetes-exporter-integration-test
+Use the following branch: https://github.com/kinvolk/habitat/tree/robertgzr/bldr-to-k8s-demo
 (This is the *work-in-progress* Kubernetes exporter + the Vagrant patches cherry-picked.)
 
 The setup is described in detail here: https://github.com/kinvolk/habitat/blob/schu/vagrant/BUILDER_VAGRANT.md
