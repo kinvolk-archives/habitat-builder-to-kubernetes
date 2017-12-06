@@ -18,9 +18,9 @@ proceeding.
 
 ### Prepare a Kubernetes cluster
 
-Use https://github.com/kinvolk/kube-spawn/pull/224 for the time being.
+You can use [kube-spawn](https://github.com/kinvolk/kube-spawn) to spin up a Kubernetes cluster locally.
 
-See `doc/vagrant.md`.
+See [doc/vagrant.md](https://github.com/kinvolk/kube-spawn/blob/master/doc/vagrant.md) for detailed instructions.
 
 Apply this patch before:
 
